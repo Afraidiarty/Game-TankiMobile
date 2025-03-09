@@ -1,4 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <?php
     include 'system/core.php';
     session_start();
@@ -734,6 +733,7 @@ switch ($polygon['buildings_level']) {
     ?>
 
 <div class="round-panel">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <div class="wrp1">
             <div class="wrp2">
                 <table class="count bold">
